@@ -2,14 +2,14 @@
 
 ## Group's members
 
-- Elías Herrero Lázaro
 - Carlos de la Cruz Ayala Vargas
+- Elías Herrero Lázaro
 - Rafael Orihuela Brindis
 - Pedro Pedregal Pérez
 
 ## Github users
 
--
--
-- RafaOB95
+- aiarakoa
 - 
+- RafaOB95
+- PPedreg
