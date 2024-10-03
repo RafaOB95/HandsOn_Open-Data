@@ -1,8 +1,15 @@
 # HandsOn_Open-Data
 
-## Group's members                         GitHub users
+## Group's members
 
 - Elías Herrero Lázaro
 - Carlos de la Cruz Ayala Vargas
-- Rafael Orihuela Brindis                 - RafaOB95
+- Rafael Orihuela Brindis
 - Pedro Pedregal Pérez
+
+## Github users
+
+-
+-
+- RafaOB95
+- 
